@@ -11,6 +11,8 @@ import org.springframework.web.bind.annotation.InitBinder;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+import com.possoul.mvcModel.Customer;
+
 @Controller
 @RequestMapping("/customer")
 public class CustomerController {

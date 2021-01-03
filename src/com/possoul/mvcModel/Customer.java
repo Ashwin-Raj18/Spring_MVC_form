@@ -1,6 +1,6 @@
 //project details: This project is converted to maven project from dynamic web project, u need external tomcat to run
 //xml based config
-package com.possoul.mvcController;
+package com.possoul.mvcModel;
 
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;

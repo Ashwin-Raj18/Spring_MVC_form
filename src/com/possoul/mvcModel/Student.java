@@ -1,4 +1,4 @@
-package com.possoul.mvcController;
+package com.possoul.mvcModel;
 
 import java.util.LinkedHashMap;
 
